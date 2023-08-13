@@ -40,7 +40,7 @@ Code are written in Jupyter Notebook, you can convert the notebook into pure pyt
 
 [code](./monkey-type.ipynb)
 
-https://monkey-type.com/
+https://monkeytype.com/
 
 ### Usage
 
